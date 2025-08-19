@@ -4,11 +4,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   Personal portfollio website for Nick Maclean.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.nicolasmaclean.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nick.imaclean.me.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # socials
-email: nicolasimaclean ( at ) gmail.com
-email_link: nicolasimaclean@gmail.com
+email: nick ( at ) imaclean.me
+email_link: nick@imaclean.me
 
 github_username: nicolasmaclean
 github_link: https://github.com/nicolasmaclean
